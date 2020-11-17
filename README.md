@@ -24,4 +24,4 @@ sc - start calculations
 
 Список команд выше.
 
-#GLHF!
+# GLHF!
